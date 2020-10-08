@@ -1,0 +1,215 @@
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe.config
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.pdb
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.xml
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\taglib-sharp.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.frmMain.resources
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.Resources.resources
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.GenerateResource.Cache
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.exe
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.xml
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.pdb
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbprojResolveAssemblyReference.cache
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Bass.Net.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Bass.Net.xml
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\bass.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\bassmix.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\basswasapi.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\bass_fx.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\bass_vst.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\bass_wadsp.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassalac.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basscd.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassdsd.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc_ogg.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc_opus.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassflac.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basshls.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassmidi.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassopus.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basswma.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basswv.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basszxtune.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_aac.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ac3.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_adx.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ape.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_mpc.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ofr.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_spx.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_tta.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_winamp.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\OptimFROG.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\tags.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\bass.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\bassmix.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\basswasapi.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\bass_fx.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\bass_vst.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassalac.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basscd.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassdsd.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc_ogg.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc_opus.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassflac.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basshls.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassmidi.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassopus.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basswma.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basswv.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basszxtune.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_aac.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ac3.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ape.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_mpc.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ofr.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_spx.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_tta.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\OptimFROG.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\tags.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\bass.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\bassmix.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\basswasapi.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\bass_fx.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\bass_vst.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\bass_wadsp.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassalac.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basscd.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassdsd.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc_ogg.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc_opus.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassflac.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basshls.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassmidi.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassopus.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basswma.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basswv.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\basszxtune.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_aac.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ac3.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_adx.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ape.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_mpc.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ofr.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_spx.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_tta.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_winamp.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\OptimFROG.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x86\Addon\tags.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\bass.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\bassmix.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\basswasapi.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\bass_fx.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\bass_vst.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassalac.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basscd.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassdsd.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc_ogg.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc_opus.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassflac.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basshls.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassmidi.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassopus.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basswma.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basswv.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\basszxtune.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_aac.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ac3.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ape.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_mpc.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ofr.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_spx.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_tta.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\OptimFROG.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\x64\Addon\tags.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe.config
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.pdb
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.xml
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\taglib-sharp.dll
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\bin\Release\Bass.Net.xml
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbprojAssemblyReference.cache
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.frmMain.resources
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.Resources.resources
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.GenerateResource.cache
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.CoreCompileInputs.cache
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.CopyComplete
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.exe
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.xml
+C:\Users\chendrix\OneDrive\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.pdb
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\bass.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\bassmix.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\basswasapi.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\bass_fx.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\bass_vst.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\bass_wadsp.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassalac.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\basscd.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassdsd.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc_ogg.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassenc_opus.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassflac.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\basshls.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassmidi.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bassopus.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\basswma.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\basswv.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\basszxtune.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_aac.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ac3.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_adx.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ape.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_mpc.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_ofr.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_spx.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_tta.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\bass_winamp.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\OptimFROG.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x86\Addon\tags.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\bass.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\bassmix.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\basswasapi.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\bass_fx.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\bass_vst.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassalac.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\basscd.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassdsd.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc_ogg.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassenc_opus.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassflac.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\basshls.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassmidi.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bassopus.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\basswma.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\basswv.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\basszxtune.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_aac.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ac3.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ape.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_mpc.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_ofr.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_spx.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\bass_tta.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\OptimFROG.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\x64\Addon\tags.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe.config
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\Mp3Org.pdb
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\Mp3Org.xml
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\taglib-sharp.dll
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\bin\Release\Bass.Net.xml
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbprojAssemblyReference.cache
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.frmMain.resources
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.Resources.resources
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.GenerateResource.cache
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.CoreCompileInputs.cache
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.CopyComplete
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.exe
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.xml
+C:\Users\chendrix\source\repos\Drixy1123\Mp3Org\Mp3Org\obj\Release\Mp3Org.pdb

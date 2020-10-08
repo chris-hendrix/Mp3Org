@@ -1,0 +1,12 @@
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe.config
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.exe
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.pdb
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\Mp3Org.xml
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\bin\Release\taglib-sharp.dll
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.frmMain.resources
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.Resources.resources
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbproj.GenerateResource.Cache
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.exe
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.xml
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.pdb
+C:\Users\Chris Hendrix\Dropbox\Code\Mp3Org\Mp3Org\obj\Release\Mp3Org.vbprojResolveAssemblyReference.cache
