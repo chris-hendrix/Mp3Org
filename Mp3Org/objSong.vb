@@ -41,10 +41,10 @@ Imports Un4seen.Bass
 
     End Sub
 
-    Sub ChangeDirectories(Path As String)
+    Sub ChangeDirectories(Path As String, Optional fileNameOptionIndex As Integer = 0)
 
         For Each s As Song In Me
-            s.ChangeDirectory(Path)
+            s.ChangeDirectory(Path, fileNameOptionIndex)
         Next
 
     End Sub
@@ -256,7 +256,7 @@ End Class
 
 #End Region
 
-#Region "Tag DAta"
+#Region "Tag Data"
 
     Property File As TagLib.File
     ReadOnly Property Tag As TagLib.Tag
@@ -325,7 +325,7 @@ End Class
             Return Path.GetExtension(FullName)
         End Get
     End Property
-    ReadOnly Property OutputFileName As String
+    ReadOnly Property OutputFileName0 As String
         Get
             Dim str As String = ""
             str &= Track.ToString("00") & " "
@@ -333,12 +333,16 @@ End Class
             Return str
         End Get
     End Property
-    ReadOnly Property OutputFileNameWithExtension As String
+    ReadOnly Property OutputFileName1 As String
         Get
-            Return OutputFileName & Extension
+            Dim str As String = ""
+            If Artist Is Nothing Or Artist = "" Then str &= EmptyTag Else str &= RemoveInvalidFileNameChars(Artist)
+            If Album Is Nothing Or Album = "" Then str &= EmptyTag Else str &= " - " & RemoveInvalidFileNameChars(Album)
+            If Title Is Nothing Or Title = "" Then str &= EmptyTag Else str &= " - " & RemoveInvalidFileNameChars(Title)
+            Return str
         End Get
     End Property
-    ReadOnly Property OutputSubDirectory As String
+    ReadOnly Property OutputSubDirectory0 As String
         Get
             Dim str As String = "\"
             If AlbumArtist Is Nothing Or AlbumArtist = "" Then str &= EmptyTag Else str &= RemoveInvalidFileNameChars(AlbumArtist)
@@ -347,11 +351,18 @@ End Class
             Return str
         End Get
     End Property
-    ReadOnly Property OutputFullName As String
+    ReadOnly Property OutputFullName0 As String
         Get
-            Return OutputSubDirectory & "\" & OutputFileNameWithExtension
+            Return OutputSubDirectory0 & "\" & OutputFileName0 & Extension
         End Get
     End Property
+
+    ReadOnly Property OutputFullName1 As String
+        Get
+            Return "\" & OutputFileName1 & Extension
+        End Get
+    End Property
+
     ReadOnly Property SearchTerm As String
         Get
             Dim str As String = ""
@@ -380,14 +391,23 @@ End Class
 #Region "Methods"
 
 
-    Sub ChangeDirectory(RunPath As String)
+    Sub ChangeDirectory(RunPath As String, Optional fileNameOptionIndex As Integer = 0)
 
-        Dim dir As String = RunPath & OutputSubDirectory
-        Dim fn As String = RunPath & OutputFullName
-        Directory.CreateDirectory(dir)
+
+        Dim fn As String
+        Dim dir As String
+        If fileNameOptionIndex = 0 Then
+            dir = RunPath & OutputSubDirectory0
+            fn = RunPath & OutputFullName0
+            Directory.CreateDirectory(dir)
+        Else
+            fn = RunPath & OutputFullName1
+        End If
+
         IO.File.Move(FullName, fn)
 
     End Sub
+
 
     'Function GetWaveForm() As Drawing.Image
     '    ' http://www.bass.radio42.com/

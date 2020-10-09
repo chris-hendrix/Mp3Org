@@ -7,6 +7,17 @@ Imports System.Runtime.Serialization.Formatters.Binary
 
     Property SongList As SongList
     Property Settings As Settings
+
+    Property FileNameOptionIndex As Integer
+        Get
+            If Settings Is Nothing Then Return 0
+            Return Settings.FileNameOptionIndex
+        End Get
+        Set(value As Integer)
+            If Settings Is Nothing Then Return
+            Settings.FileNameOptionIndex = value
+        End Set
+    End Property
     Property RunPath As String
         Get
             If Settings Is Nothing Then Return Nothing
@@ -20,7 +31,8 @@ Imports System.Runtime.Serialization.Formatters.Binary
 
     ReadOnly Property SettingsFullname As String = Application.StartupPath & "\" & Settings.FileName
 
-
+    Shared Property FileNameOptions As List(Of String) = New List(Of String)(
+    {"...Artist\Album\01 Title.mp3", "...\Artist - Album - Title.mp3"})
 
 #End Region
 
@@ -70,7 +82,7 @@ Imports System.Runtime.Serialization.Formatters.Binary
 
     Public Sub Run(RunPath As String)
         If SongList Is Nothing Then Return
-        SongList.ChangeDirectories(RunPath)
+        SongList.ChangeDirectories(RunPath, FileNameOptionIndex)
         SongList.Fill(RunPath)
         CleanDirectories(RunPath)
         Call SaveSettings()
@@ -88,5 +100,7 @@ End Class
 
     Shared Property FileName As String = "Settings.dat"
     Property RunPath As String
+    Property FileNameOptionIndex As Integer
+
 
 End Class

@@ -87,7 +87,18 @@ Public Class frmMain
             .DataSource = SongList
         End With
 
+        ' bind path text box
         txtRunPath.TextBox.DataBindings.Add("Text", Project, "RunPath")
+
+        ' bind filename options
+        With cboFileNameOptions.ComboBox
+            .DataSource = Project.FileNameOptions
+            .DataBindings.Add("SelectedIndex", Project, "FileNameOptionIndex")
+            .SelectedIndex = Project.FileNameOptionIndex
+        End With
+
+
+
 
 
     End Sub

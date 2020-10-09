@@ -3,6 +3,7 @@
 Module Tools
 
     Function RemoveInvalidFileNameChars(UserInput As String, Optional repl As String = "_") As String
+        UserInput = UserInput.Trim
         For Each invalidChar In IO.Path.GetInvalidFileNameChars
             UserInput = UserInput.Replace(invalidChar, repl)
         Next
