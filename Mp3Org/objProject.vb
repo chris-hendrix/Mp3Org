@@ -32,7 +32,7 @@ Imports System.Runtime.Serialization.Formatters.Binary
     ReadOnly Property SettingsFullname As String = Application.StartupPath & "\" & Settings.FileName
 
     Shared Property FileNameOptions As List(Of String) = New List(Of String)(
-    {"...Artist\Album\01 Title.mp3", "...\Artist - Album - Title.mp3"})
+    {"...Artist\Album\01 Title.mp3", "...\Artist - Title - Album.mp3"})
 
 #End Region
 

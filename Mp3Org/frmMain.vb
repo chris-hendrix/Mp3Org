@@ -117,7 +117,7 @@ Public Class frmMain
         Dim query As String = ""
 
         For Each s As Song In SongList
-            query = s.SearchTerm
+            query = s.SearchTerm & " spotify"
             Process.Start("https://www.google.com/search?tbm=isch&q=" + Uri.EscapeDataString(query))
         Next
     End Sub
