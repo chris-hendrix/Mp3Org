@@ -337,8 +337,8 @@ End Class
         Get
             Dim str As String = ""
             If Artist Is Nothing Or Artist = "" Then str &= EmptyTag Else str &= RemoveInvalidFileNameChars(Artist)
-            If Album Is Nothing Or Album = "" Then str &= EmptyTag Else str &= " - " & RemoveInvalidFileNameChars(Album)
             If Title Is Nothing Or Title = "" Then str &= EmptyTag Else str &= " - " & RemoveInvalidFileNameChars(Title)
+            If Album Is Nothing Or Album = "" Then str &= EmptyTag Else str &= " - " & RemoveInvalidFileNameChars(Album)
             Return str
         End Get
     End Property
@@ -485,8 +485,6 @@ End Class
         Dim filename As String = Me.FileName
 
         If filename.Contains("_") And Not filename.Contains(" ") Then filename = filename.Replace("_", " ")
-        filename = filename.Replace("(proposemusic.com)", "")
-        filename = filename.Replace("[ClapCrate.me]", "")
 
         If filename.Contains("-") Then
             artist = filename.Split("-")(0).Trim
@@ -494,14 +492,17 @@ End Class
         End If
 
 
-        If title = "" Then title = filename
-        If artist = "" Then artist = filename
+        If title = "" Then title = Trim(filename)
+        If artist = "" Then artist = Trim(filename)
 
         If Me.Title Is Nothing Or Me.Title = "" Then Me.Title = title
         If Me.Artist Is Nothing Or Me.Artist = "" Then Me.Artist = artist
         If Me.AlbumArtist Is Nothing Or Me.AlbumArtist = "" Then Me.AlbumArtist = artist
         If Me.Album Is Nothing Or Me.Album = "" Then Me.Album = title
 
+        ' clean title
+        Me.Title = Me.Title.Replace("myfreemp3.vip", "").Trim
+        Me.Title = Me.Title.Replace("(Extended Mix)", "").Trim
 
 
     End Sub
