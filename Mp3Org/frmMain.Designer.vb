@@ -747,6 +747,7 @@ Partial Class frmMain
         Me.Controls.Add(Me.tsMain)
         Me.Controls.Add(Me.StatusStrip1)
         Me.Font = New System.Drawing.Font("Arial", 8.0!)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MinimumSize = New System.Drawing.Size(800, 600)
         Me.Name = "frmMain"
         Me.Text = "Mp3Org"
