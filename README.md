@@ -22,6 +22,11 @@ A simple datagrid-based mp3 tag editor. Great for editing messy tags. The object
  1. Save the cover to the mp3 by draggng and dropping the image from the browser on the song's datagrid row (works for most images, however this does not work for some sites, such as beatport.
  1. Click "Run" to rename all tags to the selected naming convention.
  1. Add files to YouTubeMusic or other cloud service
+
+## Latest Release
+Get latest release as a portable Windows 10 application [here](https://github.com/chris-hendrix/mp3-org/releases).
+
+
  
  ## TagLib#
  This app would not be possible without the development of [TagLib#](https://github.com/mono/taglib-sharp).
