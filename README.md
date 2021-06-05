@@ -2,7 +2,8 @@
 
 A simple datagrid-based mp3 tag editor. Great for editing messy tags. The objective of this app is to edit only the critical song tags, while cleaning all other less important tags. The relevant tags are shown in the screenshot below.
 
-![Alt text](/Screens/Mp3Org_screen.png?raw=true "Optional Title")
+![Screen](/Screens/Mp3Org_screen.png?raw=true "Screen")
+![GIF](/Screens/album-art.gif?raw=true "GIF")
 
 ## Features
  - Loads all mp3s in a selected directory into an editable table
