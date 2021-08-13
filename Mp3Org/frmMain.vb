@@ -133,7 +133,7 @@ Public Class frmMain
 
 #Region "Dgv Handlers"
 
-    Private Sub dgvSongList_SelectionChanged(sender As Object, e As EventArgs) Handles dgvSongList.SelectionChanged
+    Private Sub dgvSongList_SelectionChanged(sender As Object, e As EventArgs) Handles dgvSongList.Validated
         With picCover
             .DataBindings.Clear()
             If SelectedSong Is Nothing Then Return
@@ -144,6 +144,7 @@ Public Class frmMain
 
 
     End Sub
+
 
     Private Sub dgvSongList_UserDeletingRow(sender As Object, e As DataGridViewRowCancelEventArgs) Handles dgvSongList.UserDeletingRow
         e.Cancel = MsgBox("Delete file?", MsgBoxStyle.YesNo) = MsgBoxResult.No
