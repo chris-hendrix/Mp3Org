@@ -22,12 +22,22 @@ Partial Class frmMain
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmMain))
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmMain))
         Me.pnlSongList = New System.Windows.Forms.Panel()
         Me.dgvSongList = New System.Windows.Forms.DataGridView()
+        Me.colCoverImage = New System.Windows.Forms.DataGridViewImageColumn()
+        Me.colArtist = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colAlbumArtist = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colTitle = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colAlbum = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colGenre = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colYear = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colTrack = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colBitRate = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.colFullName = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.tsMain = New System.Windows.Forms.ToolStrip()
         Me.txtRunPath = New System.Windows.Forms.ToolStripTextBox()
         Me.btnBrowse = New System.Windows.Forms.ToolStripButton()
@@ -78,16 +88,6 @@ Partial Class frmMain
         Me.picWaveForm = New System.Windows.Forms.PictureBox()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
-        Me.colCoverImage = New System.Windows.Forms.DataGridViewImageColumn()
-        Me.colArtist = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colAlbumArtist = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colTitle = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colAlbum = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colGenre = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colYear = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colTrack = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colBitRate = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.colFullName = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.pnlSongList.SuspendLayout()
         CType(Me.dgvSongList, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.tsMain.SuspendLayout()
@@ -123,6 +123,98 @@ Partial Class frmMain
         Me.dgvSongList.RowTemplate.Height = 24
         Me.dgvSongList.Size = New System.Drawing.Size(986, 277)
         Me.dgvSongList.TabIndex = 0
+        '
+        'colCoverImage
+        '
+        Me.colCoverImage.DataPropertyName = "Cover"
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        DataGridViewCellStyle1.NullValue = Nothing
+        Me.colCoverImage.DefaultCellStyle = DataGridViewCellStyle1
+        Me.colCoverImage.HeaderText = "Cover"
+        Me.colCoverImage.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom
+        Me.colCoverImage.MinimumWidth = 50
+        Me.colCoverImage.Name = "colCoverImage"
+        Me.colCoverImage.ReadOnly = True
+        Me.colCoverImage.Width = 50
+        '
+        'colArtist
+        '
+        Me.colArtist.DataPropertyName = "Artist"
+        Me.colArtist.HeaderText = "Artist"
+        Me.colArtist.MinimumWidth = 100
+        Me.colArtist.Name = "colArtist"
+        Me.colArtist.Width = 150
+        '
+        'colAlbumArtist
+        '
+        Me.colAlbumArtist.DataPropertyName = "AlbumArtist"
+        Me.colAlbumArtist.HeaderText = "Album Artist"
+        Me.colAlbumArtist.MinimumWidth = 100
+        Me.colAlbumArtist.Name = "colAlbumArtist"
+        Me.colAlbumArtist.Width = 150
+        '
+        'colTitle
+        '
+        Me.colTitle.DataPropertyName = "Title"
+        Me.colTitle.HeaderText = "Title"
+        Me.colTitle.MinimumWidth = 100
+        Me.colTitle.Name = "colTitle"
+        Me.colTitle.Width = 150
+        '
+        'colAlbum
+        '
+        Me.colAlbum.DataPropertyName = "Album"
+        Me.colAlbum.HeaderText = "Album"
+        Me.colAlbum.MinimumWidth = 100
+        Me.colAlbum.Name = "colAlbum"
+        Me.colAlbum.Width = 150
+        '
+        'colGenre
+        '
+        Me.colGenre.DataPropertyName = "Genre"
+        Me.colGenre.HeaderText = "Genre"
+        Me.colGenre.MinimumWidth = 75
+        Me.colGenre.Name = "colGenre"
+        Me.colGenre.Width = 75
+        '
+        'colYear
+        '
+        Me.colYear.DataPropertyName = "Year"
+        Me.colYear.HeaderText = "Year"
+        Me.colYear.MinimumWidth = 75
+        Me.colYear.Name = "colYear"
+        Me.colYear.Width = 75
+        '
+        'colTrack
+        '
+        Me.colTrack.DataPropertyName = "Track"
+        Me.colTrack.HeaderText = "#"
+        Me.colTrack.MinimumWidth = 40
+        Me.colTrack.Name = "colTrack"
+        Me.colTrack.Width = 40
+        '
+        'colBitRate
+        '
+        Me.colBitRate.DataPropertyName = "BitRateString"
+        DataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.colBitRate.DefaultCellStyle = DataGridViewCellStyle2
+        Me.colBitRate.HeaderText = "BitRate"
+        Me.colBitRate.MinimumWidth = 60
+        Me.colBitRate.Name = "colBitRate"
+        Me.colBitRate.ReadOnly = True
+        Me.colBitRate.Width = 60
+        '
+        'colFullName
+        '
+        Me.colFullName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
+        Me.colFullName.DataPropertyName = "FullName"
+        DataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.colFullName.DefaultCellStyle = DataGridViewCellStyle3
+        Me.colFullName.HeaderText = "FullName"
+        Me.colFullName.MinimumWidth = 300
+        Me.colFullName.Name = "colFullName"
+        Me.colFullName.ReadOnly = True
         '
         'tsMain
         '
@@ -658,98 +750,6 @@ Partial Class frmMain
         Me.StatusStrip1.Size = New System.Drawing.Size(998, 22)
         Me.StatusStrip1.TabIndex = 6
         Me.StatusStrip1.Text = "StatusStrip1"
-        '
-        'colCoverImage
-        '
-        Me.colCoverImage.DataPropertyName = "Cover"
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        DataGridViewCellStyle1.NullValue = Nothing
-        Me.colCoverImage.DefaultCellStyle = DataGridViewCellStyle1
-        Me.colCoverImage.HeaderText = "Cover"
-        Me.colCoverImage.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom
-        Me.colCoverImage.MinimumWidth = 50
-        Me.colCoverImage.Name = "colCoverImage"
-        Me.colCoverImage.ReadOnly = True
-        Me.colCoverImage.Width = 50
-        '
-        'colArtist
-        '
-        Me.colArtist.DataPropertyName = "Artist"
-        Me.colArtist.HeaderText = "Artist"
-        Me.colArtist.MinimumWidth = 100
-        Me.colArtist.Name = "colArtist"
-        Me.colArtist.Width = 150
-        '
-        'colAlbumArtist
-        '
-        Me.colAlbumArtist.DataPropertyName = "AlbumArtist"
-        Me.colAlbumArtist.HeaderText = "Album Artist"
-        Me.colAlbumArtist.MinimumWidth = 100
-        Me.colAlbumArtist.Name = "colAlbumArtist"
-        Me.colAlbumArtist.Width = 150
-        '
-        'colTitle
-        '
-        Me.colTitle.DataPropertyName = "Title"
-        Me.colTitle.HeaderText = "Title"
-        Me.colTitle.MinimumWidth = 100
-        Me.colTitle.Name = "colTitle"
-        Me.colTitle.Width = 150
-        '
-        'colAlbum
-        '
-        Me.colAlbum.DataPropertyName = "Album"
-        Me.colAlbum.HeaderText = "Album"
-        Me.colAlbum.MinimumWidth = 100
-        Me.colAlbum.Name = "colAlbum"
-        Me.colAlbum.Width = 150
-        '
-        'colGenre
-        '
-        Me.colGenre.DataPropertyName = "Genre"
-        Me.colGenre.HeaderText = "Genre"
-        Me.colGenre.MinimumWidth = 75
-        Me.colGenre.Name = "colGenre"
-        Me.colGenre.Width = 75
-        '
-        'colYear
-        '
-        Me.colYear.DataPropertyName = "Year"
-        Me.colYear.HeaderText = "Year"
-        Me.colYear.MinimumWidth = 75
-        Me.colYear.Name = "colYear"
-        Me.colYear.Width = 75
-        '
-        'colTrack
-        '
-        Me.colTrack.DataPropertyName = "Track"
-        Me.colTrack.HeaderText = "#"
-        Me.colTrack.MinimumWidth = 40
-        Me.colTrack.Name = "colTrack"
-        Me.colTrack.Width = 40
-        '
-        'colBitRate
-        '
-        Me.colBitRate.DataPropertyName = "BitRateString"
-        DataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.colBitRate.DefaultCellStyle = DataGridViewCellStyle2
-        Me.colBitRate.HeaderText = "BitRate"
-        Me.colBitRate.MinimumWidth = 60
-        Me.colBitRate.Name = "colBitRate"
-        Me.colBitRate.ReadOnly = True
-        Me.colBitRate.Width = 60
-        '
-        'colFullName
-        '
-        Me.colFullName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
-        Me.colFullName.DataPropertyName = "FullName"
-        DataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.colFullName.DefaultCellStyle = DataGridViewCellStyle3
-        Me.colFullName.HeaderText = "FullName"
-        Me.colFullName.MinimumWidth = 300
-        Me.colFullName.Name = "colFullName"
-        Me.colFullName.ReadOnly = True
         '
         'frmMain
         '

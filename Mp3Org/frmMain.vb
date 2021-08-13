@@ -133,7 +133,7 @@ Public Class frmMain
 
 #Region "Dgv Handlers"
 
-    Private Sub dgvSongList_SelectionChanged(sender As Object, e As EventArgs) Handles dgvSongList.Validated
+    Private Sub dgvSongList_SelectionChanged(sender As Object, e As EventArgs) Handles dgvSongList.SelectionChanged
         With picCover
             .DataBindings.Clear()
             If SelectedSong Is Nothing Then Return
